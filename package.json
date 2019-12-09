@@ -49,6 +49,7 @@
     "lint": "eslint src/**/*.{js,jsx,ts,tsx} --fix",
     "serve": "webpack-dev-server --mode development",
     "test": "jest",
+    "up": "docker-compose up",
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch",
     "build": "webpack --mode production"
