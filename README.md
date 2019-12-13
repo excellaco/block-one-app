@@ -2,9 +2,9 @@
 Application using block.one EOSIO
 
 ## Suggested Reading
-This application was built using React and Block.one technology.
+This application was built using React and Block.one technology. If new to these technologies, start here:
 
-New to React and Typescript? Start here:
+Learn React and Typescript:
  - [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
  - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
  - [Typescript Documentation](https://www.typescriptlang.org/docs/home.html)
